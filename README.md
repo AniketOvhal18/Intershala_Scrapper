@@ -1,4 +1,4 @@
-# 🛠️ Internshala Job Scraper
+# 🛠️ Internshala Job Scraper(Educational Purpose)
 
 A Python-based web scraper that extracts job and internship listings from [Internshala](https://internshala.com) using **Selenium** and **BeautifulSoup**. It captures job title, company, location, stipend, duration, start date, job type, and required skills, and exports the data to CSV or JSON format.
 
